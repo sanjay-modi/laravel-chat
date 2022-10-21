@@ -16,7 +16,7 @@ Fire commands in terminal :
 #####  Step : 1
 
 ```
-git clone https://github.com/Manish0511/chat-demo.git
+git clone https://github.com/sanjay-modi/laravel-chat.git
 ```
 ##### Step : 2
 
